@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Project Link : [View Page]('coming soon')
+Project Link : [View Page](https://60d246a62cf0b51a0afdd1e3--serene-northcutt-6a4508.netlify.app/)
 
 ## Available Scripts
 
